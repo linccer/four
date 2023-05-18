@@ -1,0 +1,8 @@
+.lt
+.com
+.net
+.org
+.info
+.eu
+.uk
+.de
